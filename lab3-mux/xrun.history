@@ -1,0 +1,27 @@
+s1(04Aug2023:13:17:06):  xrun multiplexor.sv multiplexor_test.v 
+s2(04Aug2023:13:17:10):  xrun multiplexor.sv multiplexor_test.v 
+s3(04Aug2023:13:19:15):  xrun multiplexor.sv multiplexor_test.v 
+s4(04Aug2023:13:19:24):  xrun multiplexor.sv 
+s5(04Aug2023:13:20:10):  xrun multiplexor.sv 
+s6(04Aug2023:13:20:40):  xrun multiplexor.sv 
+s7(04Aug2023:13:21:58):  xrun multiplexor.sv 
+s8(04Aug2023:13:22:40):  xrun multiplexor.sv 
+s9(04Aug2023:13:23:11):  xrun multiplexor.sv 
+s10(04Aug2023:13:23:47):  xrun multiplexor.sv 
+s11(04Aug2023:13:24:01):  xrun multiplexor.sv multiplexor_test.v 
+s12(04Aug2023:13:29:53):  xrun multiplexor.sv multiplexor_test.v -gui -access -wrx 
+s13(04Aug2023:13:30:00):  xrun multiplexor.sv multiplexor_test.v -gui -access -xwr 
+s14(04Aug2023:13:32:08):  xrun multiplexor.v multiplexor_test.v -gui -access +rwc 
+s15(04Aug2023:13:32:21):  xrun multiplexor.sv multiplexor_test.v -gui -access +rwc 
+s16(04Aug2023:13:43:33):  xrun multiplexor.sv multiplexor_test.v -gui -access -wrx 
+s17(04Aug2023:13:44:34):  xrun multiplexor.sv multiplexor_test.v -gui -access -wrx 
+s18(04Aug2023:13:44:42):  xrun multiplexor.sv multiplexor_test.v -gui -access -wrx 
+s19(04Aug2023:13:44:48):  xrun multiplexor.sv multiplexor_test.v -gui -access -wxr 
+s20(04Aug2023:13:45:49):  xrun multiplexor.sv multiplexor_test.v -gui -access +wr 
+s21(04Aug2023:13:46:28):  xrun multiplexor.sv multiplexor_test.v -gui -access +wr 
+s22(04Aug2023:13:47:26):  xrun multiplexor.sv multiplexor_test.v -gui -access +wr 
+s23(04Aug2023:13:52:27):  xrun multiplexor.sv multiplexor_test.v -gui -access +wr 
+s24(04Aug2023:14:01:42):  xrun multiplexor.sv multiplexor_test.v -gui -access +wr 
+s25(04Aug2023:19:01:55):  xrun multiplexor.sv multiplexor_test.v 
+s26(07Aug2023:08:16:44):  xrun multiplexor.sv multiplexor_test.v 
+s27(07Aug2023:14:26:31):  xrun multiplexor.sv multiplexor_test.v 

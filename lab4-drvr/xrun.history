@@ -1,0 +1,5 @@
+s1(04Aug2023:16:43:29):  xrun driver.sv driver_test.v 
+s2(04Aug2023:17:04:30):  xrun driver.sv driver_test.v -gui -access +xwr 
+s3(04Aug2023:17:04:34):  xrun driver.sv driver_test.v -gui -access +wr 
+s4(04Aug2023:17:04:56):  xrun driver.sv driver_test.v -gui -access +rw 
+s5(31Aug2023:13:25:46):  xrun driver.sv driver_test.v 

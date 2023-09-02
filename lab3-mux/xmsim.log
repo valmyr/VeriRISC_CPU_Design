@@ -1,0 +1,14 @@
+xmsim(64): 23.03-s004: (c) Copyright 1995-2023 Cadence Design Systems, Inc.
+xmsim: *E,DLMKDF: Unable to add default DEFINE std       /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/STD.
+xmsim: *E,DLMKDF: Unable to add default DEFINE synopsys  /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/SYNOPSYS.
+xmsim: *E,DLMKDF: Unable to add default DEFINE ieee      /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/IEEE.
+xmsim: *E,DLMKDF: Unable to add default DEFINE ambit     /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/AMBIT.
+xmsim: *E,DLMKDF: Unable to add default DEFINE vital_memory /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/VITAL_MEMORY.
+xmsim: *E,DLMKDF: Unable to add default DEFINE xmutils /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/XMUTILS.
+xmsim: *E,DLMKDF: Unable to add default DEFINE xminternal /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/XMINTERNAL.
+xmsim: *E,DLMKDF: Unable to add default DEFINE xmmodels /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/XMMODELS.
+xmsim: *E,DLMKDF: Unable to add default DEFINE ncutils /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/NCUTILS.
+xmsim: *E,DLMKDF: Unable to add default DEFINE ncinternal /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/NCINTERNAL.
+xmsim: *E,DLMKDF: Unable to add default DEFINE ncmodels /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/NCMODELS.
+xmsim: *E,DLMKDF: Unable to add default DEFINE cds_assertions /Tools/cadence/XCELIUMMAIN2303/tools/inca/files/CDS_ASSERTIONS.
+xmsim: *F,DLINIT: Failed to initialize library system interface.
